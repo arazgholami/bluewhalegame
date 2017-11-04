@@ -1,15 +1,16 @@
 # Blue Whale Game Inform Project Website
 An inform project for Blue Whale Game/Challenge
 
-##How to access
-visit http://bluewhalegame.ir<http://bluewhalegame.ir>
+## How to access
+visit http://bluewhalegame.ir
 
-##Development
+## Development
 It's in development at now.
 
-##Author
-Araz Gholami<http://arazgholami.com>
+## Author
+Araz Gholami  
+<http://arazgholami.com>
 
-##Contact
-About development of project contact@arazgholami.com<contact@arazgholami.com>
-About Project contact@bluewhalegame.ir<contact@bluewhalegame.ir>
+## Contact
+About project development contact@arazgholami.com  
+About Project contact@bluewhalegame.ir
