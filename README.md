@@ -5,7 +5,7 @@ An inform project for Blue Whale Game/Challenge
 visit http://bluewhalegame.ir
 
 ## Development
-It's in development at now.
+
 
 ## Author
 Araz Gholami  
